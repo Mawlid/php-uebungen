@@ -1,0 +1,8 @@
+Erstellt ein php Programm:
+
+- Ausgaben nur in Views (Unterverzeichnis views)
+- Logik nur im Controller (Unterverzeichnis controllers)
+
+Aufgabe: Erstellt mindestens 4 Beispiele mit Datentypen
+    - Entweder mit 1 controller / Beispiel = mind. 4 Controllern in einem Verzeichnis und 4 Views
+    - oder jedes Beispiel in einem eigenen Ordner, der controllers und views enthält.
